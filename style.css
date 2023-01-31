@@ -157,6 +157,7 @@ span {
   grid-row-start: 2;
   grid-row-end: 4;
   background-image: url(./assets/item-nine.jpeg);
+  background-size: cover;
 }
 
 .box8 {
@@ -166,6 +167,7 @@ span {
   grid-row-start: 4;
   grid-row-end: 6;
   background-image: url(./assets/item-eight.jpeg);
+  background-size: cover;
 }
 
 .berlin {
